@@ -1,5 +1,5 @@
 #FirstClass_Interior_Agile
-Website created as a team for an Interior Design Company(FristClass Interior Design).
+
 Our Small Team of 4 (Suede, Ritik, Reily and Ryley) have created the full project based a SDLC (Software Development Life Cycle)
 We folowed 7 phases in this project.
 Under the waterfall methodology 
